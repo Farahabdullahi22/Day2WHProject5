@@ -6,7 +6,14 @@ public class Stash5 {
 		
 		
 		System.out.println("The final stash for tonight");
+		
+		
 
+	}
+	
+	public void FinalStash() {
+		
+		System.out.println("Done with tonight hw");
 	}
 
 }
